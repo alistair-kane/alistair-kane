@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=timygerdes&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=alistair-kane&style=flat-square&color=blue" alt=""/>
 
 <!--
 **alistair-kane/alistair-kane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
