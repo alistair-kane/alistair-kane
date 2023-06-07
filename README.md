@@ -1,8 +1,9 @@
+<img src="https://komarev.com/ghpvc/?username=alistair-kane&style=flat-square&color=blue" alt=""/>
 ### Hi there 👋
 
 * 🌱 I'm Alistair, currently on the search for opportunities to apply my skills and contribute to meaningful projects!
 
-* 💻 Completing the core curriculum at 42 Wolfsburg gives me a solid foundation in C and C++. I have designed and implemented many algorithms with optimization for space and/or time complexity. I love tackling new challenges and delivering pragmatic solutions.
+* 💻 Completing the core curriculum at [42 Wolfsburg](https://42wolfsburg.de) gives me a solid foundation in C and C++. I have designed and implemented many algorithms with optimization for space and/or time complexity. I love tackling new challenges and delivering pragmatic solutions.
 
 * 🌟 I also have expertise in Python through automation projects and in virtualization through the use of Docker and VMs.
 
@@ -14,4 +15,8 @@
 <a href="https://www.linkedin.com/in/alistairkane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alistair Kane" height="30" width="40" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=alistair-kane&style=flat-square&color=blue" alt=""/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
