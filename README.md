@@ -8,7 +8,7 @@
 
 * 🌟 I also have expertise in Python through automation projects and in virtualization through the use of Docker and VMs.
 
-* 🚀 Technology is constantly evolving and believe in continuous learning to deliver the most compatible and efficient solutions.
+* 🚀 Technology is constantly evolving and I believe in continuous learning to achieve the most compatible and efficient solutions.
 
 * 🌍 If you're looking for a dedicated software engineer, I would love to connect with you! Feel free to reach out: 
 
