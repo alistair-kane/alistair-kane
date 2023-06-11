@@ -1,16 +1,16 @@
 <img src="https://komarev.com/ghpvc/?username=alistair-kane&style=flat-square&color=blue" alt=""/>
 
-### Hi there 👋
+### G'day 👋
 
-* 🌱 I'm Alistair, currently on the search for opportunities to apply my skills and contribute to meaningful projects!
+* 🌚 I'm Alistair, currently on the search for opportunities to apply my skills and contribute to meaningful projects!
 
-* 💻 Completing the core curriculum at [42 Wolfsburg](https://42wolfsburg.de) gives me a solid foundation in C and C++. I have designed and implemented many algorithms with optimization for space and/or time complexity. I love tackling new challenges and delivering pragmatic solutions.
+* 🌘 Completing the core curriculum at [42 Wolfsburg](https://42wolfsburg.de) gives me a solid foundation in C and C++. I have designed and implemented many algorithms with optimization for space and/or time complexity. I love tackling new challenges and delivering pragmatic solutions.
 
-* 🌟 I also have expertise in Python through automation projects and in virtualization through the use of Docker and VMs.
+* 🌗 I also have expertise in Python through automation projects and in virtualization through the use of Docker and VMs.
 
-* 🚀 Technology is constantly evolving and I believe in continuous learning to achieve the most compatible and efficient solutions.
+* 🌖 Technology is constantly evolving and I believe in continuous learning to achieve the most compatible and efficient solutions.
 
-* 🌍 If you're looking for a dedicated software engineer, I would love to connect with you! Feel free to reach out: 
+* 🌝 If you're looking for a dedicated software engineer, I would love to connect with you! Feel free to reach out: 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alistairkane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alistair Kane" height="30" width="40" /></a>
