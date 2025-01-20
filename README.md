@@ -10,7 +10,7 @@
 
 * 🌖 Technology is constantly evolving and I believe in continuous learning to achieve the most compatible and efficient solutions
 
-* 🌝 I'm always eager to collaborate on projects that challenge me and make a difference
+* 🌝 I'm always eager to collaborate on projects that are challenging and making a difference!
 
 <h3 align="left">Toolbox 🧰</h3>
 <p align="left">
