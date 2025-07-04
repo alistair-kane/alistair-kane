@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=alistair-kane&style=flat-square&color=blue" alt=""/>
+
 
 ### G'day 👋
 
@@ -23,7 +23,10 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </p>
-  
-  
- 
-          
+
+<details>
+  <summary>Secret 🤫!</summary>
+
+  <img src="https://komarev.com/ghpvc/?username=alistair-kane&style=flat-square&color=blue" alt="Profile views" />
+
+</details>
