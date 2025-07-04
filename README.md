@@ -2,7 +2,7 @@
 
 ### G'day 👋
 
-* 🌚 I'm Alistair, on the search for opportunities to apply my skills and contribute to meaningful projects!
+* 🌚 I'm Alistair, always on the search for opportunities to apply my skills and contribute to meaningful projects!
 
 * 🌘 Completing the core curriculum at [42 Wolfsburg](https://42wolfsburg.de) provides me a solid foundation in C and C++. I have designed and implemented many algorithms with optimization for space and/or time complexity. I love tackling new challenges and finding robust approaches
 
